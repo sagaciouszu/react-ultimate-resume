@@ -19,8 +19,8 @@ This can be done via the `additionalNodes.banner.actionButton` props
                         <ButtonComponent/>
                     </>
                 )
-            }
-        }}
+            }}
+        }
     />
 ``` 
 
